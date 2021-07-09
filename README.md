@@ -84,7 +84,7 @@ from Logs of Their Behavior with CSight</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Log-Analysis-Papers/blob/master/l(43).pdf" style="text-decoration:none;">Reading between the lines of failure logs: Understanding how HPC systems fail</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Log-Analysis-Papers/blob/master/l(44).pdf" style="text-decoration:none;">Mining Historical Issue Repositories to Heal Large-Scale Online Service Systems</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Log-Analysis-Papers/blob/master/l(45).pdf" style="text-decoration:none;">Mining Historical Issue Repositories to Heal Large-Scale Online Service Systems</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Log-Analysis-Papers/blob/master/l(45).pdf" style="text-decoration:none;">Analyzing Log Analysis: An Empirical Study of User Log Mining</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Log-Analysis-Papers/blob/master/l(46).pdf" style="text-decoration:none;">Large-Scale System Problems Detection by Mining Console Logs</a></li> 
                              
@@ -111,7 +111,7 @@ Automatically Infer Invariant-Constrained Models</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Log-Analysis-Papers/blob/master/l(58).pdf" style="text-decoration:none;">An Industrial Case Study of
 Customizing Operational Profiles Using Log Compression</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Log-Analysis-Papers/blob/master/l(59).pdf" style="text-decoration:none;">Assisting Developers of Big Data Analytics Applications When Deploying on Hadoop Clouds</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Log-Analysis-Papers/blob/master/l(59).pdf" style="text-decoration:none;">LogLens: A Real-time Log Analysis System</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Log-Analysis-Papers/blob/master/l(60).pdf" style="text-decoration:none;">Log Clustering based Problem Identification for Online Service Systems </a></li>
  
